@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alizs10
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning php laravel & react js
+- 🌱 I’m currently learning next js
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email : alizswork@gmail.com
 
